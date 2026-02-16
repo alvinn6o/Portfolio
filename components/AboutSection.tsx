@@ -7,7 +7,7 @@ export default function AboutSection() {
         <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
         <p className="text-muted leading-relaxed">
           Hello! I am currently an undergraduate student studying Computer Science at California State University, Long Beach.
-          In Fall 2026, I intend to pursue my MS in Applied Data Science at University of Southern California, Los Angeles. 
+          In Fall 2026, I intend to pursue my MISM (BIDA track) at Carnegie Mellon University, Pittsburgh, PA. 
           I have a passion for data science and analytics, and I hope to ultimately become a data scientist to build
           predictive models and data pipelines. I am always looking for new challenges and opportunities to continue growing.
         </p>

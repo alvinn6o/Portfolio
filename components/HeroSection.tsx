@@ -8,7 +8,7 @@ export default function HeroSection() {
         Alvin Ngo
       </h1>
       <p className="mt-4 text-lg md:text-xl text-muted max-w-xl">
-        Data Science & Analytics &bull; Undergraduate Computer Science Student
+        Data Science & Analytics &bull; Incoming MISM-BIDA graduate student at Carnegie Mellon University
       </p>
       <a
         href="#about"
