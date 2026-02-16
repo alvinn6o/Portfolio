@@ -10,14 +10,14 @@ export default function EducationSection() {
 
           <div className="border border-border rounded-lg p-6 bg-card flex gap-5 items-start">
             <div className="shrink-0 w-20 h-20 rounded-lg bg-border overflow-hidden flex items-center justify-center">
-              <Image src="/usc_seal.jpeg" alt="USC" width={80} height={80} className="object-cover w-full h-full" />
+              <Image src="/cmu.jpg" alt="CMU" width={80} height={80} className="object-cover w-full h-full" />
             </div>
             <div>
-              <h3 className="text-xl font-semibold">University of Southern California, Los Angeles</h3>
+              <h3 className="text-xl font-semibold">Carnegie Mellon University, Pittsburgh, PA</h3>
               <p className="text-accent text-sm mt-1">
-                M.S. in Applied Data Science
+                Master of Information Systems Management - Business Intelligence and Data Analytics
               </p>
-              <p className="text-muted text-sm mt-0">Expected May 2028</p>
+              <p className="text-muted text-sm mt-0">Expected December 2027</p>
             </div>
           </div>
 
